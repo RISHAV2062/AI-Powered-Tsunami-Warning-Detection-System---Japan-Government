@@ -17,7 +17,7 @@ During the 2024 Noto Peninsula earthquake, this system demonstrated exceptional 
 
 ## 📸 System Preview
 
-![Dashboard Overview](Japan-Earthquake-Analysis-dashboard)
+![Dashboard Overview](https://weather-pctr.c.yimg.jp/t/weather-img/earthquake/20240101161010/f2edf3b1_1704093840_point.png)
 *Real-time monitoring dashboard showing seismic activity and tsunami risk levels*
 
 ![Alert System]()
