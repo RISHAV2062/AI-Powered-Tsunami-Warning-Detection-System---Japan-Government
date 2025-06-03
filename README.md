@@ -20,7 +20,7 @@ During the 2024 Noto Peninsula earthquake, this system demonstrated exceptional 
 ![Dashboard Overview](https://weather-pctr.c.yimg.jp/t/weather-img/earthquake/20240101161010/f2edf3b1_1704093840_point.png)
 *Real-time monitoring dashboard showing seismic activity and tsunami risk levels*
 
-![Alert System]()
+![Alert System](https://www.mdpi.com/applsci/applsci-15-02587/article_deploy/html/images/applsci-15-02587-g001-550.jpg)
 *Emergency alert system interface with real-time notifications*
 
 ![Analytics](https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg)
