@@ -23,7 +23,10 @@ During the 2024 Noto Peninsula earthquake, this system demonstrated exceptional 
 ![Alert System](https://www.mdpi.com/applsci/applsci-15-02587/article_deploy/html/images/applsci-15-02587-g001-550.jpg)
 *Emergency alert system interface with real-time notifications*
 
-![Analytics](https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg)
+![Analytics](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*MeHodfz2MaWxiAkjHyHAJQ.png)
+
+![Analytics](https://miro.medium.com/v2/resize:fit:1050/format:webp/1*hWo-isLJ288QSu4TqQbYhg.png)
+
 *Advanced analytics dashboard for historical data analysis*
 
 ## 🎯 Key Features
