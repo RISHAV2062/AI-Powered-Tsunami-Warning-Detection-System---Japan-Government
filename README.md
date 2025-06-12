@@ -82,7 +82,7 @@ During the 2024 Noto Peninsula earthquake, this system demonstrated exceptional 
 
 \`\`\`bash
 # Clone the repository
-git clone https://github.com/your-username/tsunami-warning-system.git
+git clone https://github.com/RISHAV2062/tsunami-warning-system.git
 
 # Install dependencies
 npm install
