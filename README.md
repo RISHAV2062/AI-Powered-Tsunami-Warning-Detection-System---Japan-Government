@@ -10,7 +10,7 @@
 During the 2024 Noto Peninsula earthquake, this system demonstrated exceptional performance:
 
 - **Lives Saved**: Prevented potential loss of 200 lives through early detection
-- **Economic Impact**: Mitigated ¥8.2 billion (~$55 million) in disaster damages
+- **Economic Impact**: Mitigated $9.5 million in disaster damages
 - **Coverage**: Protected 8 prefectures across North Japan
 - **Response Time**: Achieved sub-30-second detection latency
 - **Scale**: Successfully deployed across 12 coastal cities
@@ -131,7 +131,6 @@ For inquiries about this system, please contact:
 
 - **Technical Lead**: RISHAV CHANDRA ACHARYA
 - **Email**: rishav.c.acharya@vanderbilt.edu
-- **Project Website**: [https://tsunami-warning-system.gov.jp](https://tsunami-warning-system.gov.jp)
 
 ---
 
