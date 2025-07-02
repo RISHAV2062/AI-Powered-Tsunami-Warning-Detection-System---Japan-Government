@@ -13,7 +13,7 @@ During the 2024 Noto Peninsula earthquake, this system demonstrated exceptional 
 - **Economic Impact**: Mitigated $9.5 million in disaster damages
 - **Coverage**: Protected 8 prefectures across North Japan
 - **Response Time**: Achieved sub-30-second detection latency
-- **Scale**: Successfully deployed across 12 coastal cities
+- **Scale**: Successfully deployed across 5 coastal cities
 
 ## 📸 System Preview
 
