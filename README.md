@@ -20,14 +20,14 @@ During the 2024 Noto Peninsula earthquake, this system demonstrated exceptional 
 ![Dashboard Overview](https://weather-pctr.c.yimg.jp/t/weather-img/earthquake/20240101161010/f2edf3b1_1704093840_point.png)
 *Real-time monitoring dashboard showing seismic activity and tsunami risk levels*
 
-![Alert System](https://www.mdpi.com/applsci/applsci-15-02587/article_deploy/html/images/applsci-15-02587-g001-550.jpg)
+![Alert System] <img width="1201" alt="Screenshot 2025-07-04 at 3 22 07 PM" src="https://github.com/user-attachments/assets/cb69c2b1-efc7-4090-98c6-9c1e45b7be50" />
+
 *Emergency alert system interface with real-time notifications*
 
-![Analytics](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*MeHodfz2MaWxiAkjHyHAJQ.png)
+<img width="1470" alt="Screenshot 2025-07-04 at 3 25 16 PM" src="https://github.com/user-attachments/assets/06e56417-973b-4b95-b58b-8b907b3853f5" />
 
-![Analytics](https://miro.medium.com/v2/resize:fit:1050/format:webp/1*hWo-isLJ288QSu4TqQbYhg.png)
+<img width="1470" alt="Screenshot 2025-07-04 at 3 26 09 PM" src="https://github.com/user-attachments/assets/bf1e400d-89bf-4763-9e82-65008cf2d86b" />
 
-*Advanced analytics dashboard for historical data analysis*
 
 ## 🎯 Key Features
 
@@ -113,11 +113,7 @@ The system is currently deployed across 12 coastal cities in Japan:
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+We welcome contributions! Please see our [Contributing Guidelines] for details.
 
 ## 🌟 Acknowledgments
 
