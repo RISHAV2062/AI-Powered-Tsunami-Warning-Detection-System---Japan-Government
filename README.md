@@ -24,9 +24,12 @@ During the 2024 Noto Peninsula earthquake, this system demonstrated exceptional 
 
 *Emergency alert system interface with real-time notifications*
 
-<img width="1470" alt="Screenshot 2025-07-04 at 3 25 16 PM" src="https://github.com/user-attachments/assets/06e56417-973b-4b95-b58b-8b907b3853f5" />
-
 <img width="1470" alt="Screenshot 2025-07-04 at 3 26 09 PM" src="https://github.com/user-attachments/assets/bf1e400d-89bf-4763-9e82-65008cf2d86b" />
+<img width="1470" alt="Screenshot 2025-07-04 at 3 41 49 PM" src="https://github.com/user-attachments/assets/f846860a-0fb0-42e3-8fef-72af73688e5e" />
+
+<img width="1368" alt="Screenshot 2025-07-04 at 3 36 32 PM" src="https://github.com/user-attachments/assets/37f65f37-19e2-4104-8eda-9af8af240923" />
+
+<img width="1037" alt="Screenshot 2025-07-04 at 3 36 01 PM" src="https://github.com/user-attachments/assets/6c32f0be-be99-439b-a1ff-add2dd0d96cc" />
 
 
 ## 🎯 Key Features
